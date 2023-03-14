@@ -9,7 +9,7 @@ This is the Repository for the Standalone Client for Poisson Revived!
 
 Based on [Club Penguin Brasil's Standalone Client](https://github.com/CPBrasil/CPBrasil-Client) (Licensed under Creative Commons Zero V1 Universal)
 
-### Our Website -> https://play.poissonrevived.xyz
+### Our Website -> https://poissonrevived.xyz
 
 ---
 ## SETUP
