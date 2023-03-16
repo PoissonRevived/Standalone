@@ -49,7 +49,6 @@ npm run build-linux
 ```
 
 ### Compile for macOS (Intel):
-NOTE: You need a macOS Installation to do this. Otherwise it won't work
 ```
 npm run build-mac
 ```
