@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://poissonrevived.xyz">
-    <img src="https://poissonrevived.xyz/logo.png" alt="Poisson Revived !" />
+  <a href="https://poissonrevived.net">
+    <img src="https://poissonrevived.net/logo.png" alt="Poisson Revived !" />
   </a>
 </p>
 
