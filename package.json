@@ -1,19 +1,19 @@
 {
   "name": "poisson-standalone",
-  "version": "v1.0.0",
+  "version": "v2.0.0",
   "description": "Poisson Revived Standalone Client",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
     "build-win32": "electron-builder build --win --ia32 --publish never",
     "build-win64": "electron-builder build --win --ia32 --publish never --x64",
-    "build-mac": "electron-builder build --mac zip --x64 --publish never",
+    "build-mac": "electron-builder build --mac dmg --x64 --publish never",
     "build-linux": "electron-builder build --linux --ia32 --publish never --x64",
     "appveyor-build": "electron-builder build --win --publish onTagOrDraft"
   },
-  "homepage": "https://poissonrevived.xyz",
+  "homepage": "https://poissonrevived.net",
   "repository": "https://github.com/PoissonRevived/Standalone",
-  "author": "iPedroLB",
+  "author": "RaySollium99",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^11.3.0",
@@ -24,7 +24,7 @@
     "electron-is-dev": "^1.1.0"
   },
   "build": {
-    "appId": "xyz.poissonrevived.app",
+    "appId": "net.poissonrevived.app",
     "productName": "Poisson",
     "asar": "false",
     "win": {
