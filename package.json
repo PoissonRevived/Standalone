@@ -32,7 +32,8 @@
     },
     "linux": {
       "publish": "github",
-      "target": "appImage"
+      "target": "appImage",
+      "category": "Games"
     }
   }
 }
