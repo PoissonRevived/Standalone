@@ -42,7 +42,7 @@ function createWindow () {
 
   mainWindow.setMenu(null);
   //clearCache();
-  mainWindow.loadURL('https://play.poissonrevived.xyz');
+  mainWindow.loadURL('https://play.poissonrevived.net');
   //mainWindow.webContents.openDevTools();
 
   mainWindow.on('closed', function () {
